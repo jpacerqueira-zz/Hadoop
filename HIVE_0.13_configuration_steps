@@ -1,3 +1,8 @@
+
+######################################################################
+   Steps to Install Apache Hive in a Hadoop 2.4 Single Node Cluster
+######################################################################
+
 1. Download Apache Hive 0.13.1 stable version
 
 $ wget http://apache.osuosl.org/hive/stable/apache-hive-0.13.1-bin.tar.gz
